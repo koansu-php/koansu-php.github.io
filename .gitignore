@@ -1,1 +1,5 @@
 .idea
+**/.directory
+tmp*
+.DS_Store
+Thumbs.db
